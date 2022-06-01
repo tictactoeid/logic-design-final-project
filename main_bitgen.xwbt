@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Xilinx\Final\main.ncd
+OUTFILE=D:\Xilinx\Final\main.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50an-4tqg144
+WORKINGDIR=D:\Xilinx\Final
+LICENSE=WebPack
+USER_INFO=212441504_0_0_502

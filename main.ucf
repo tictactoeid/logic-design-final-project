@@ -1,0 +1,33 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clock" LOC = P57;
+NET "reset" LOC = P47;
+NET "BCD_output2[6]" LOC = P3;
+NET "BCD_output2[5]" LOC = P4;
+NET "BCD_output2[4]" LOC = P5;
+NET "BCD_output2[3]" LOC = P6;
+NET "BCD_output2[2]" LOC = P7;
+NET "BCD_output2[1]" LOC = P8;
+NET "BCD_output2[0]" LOC = P10;
+NET "BCD_output1[6]" LOC = P11;
+NET "BCD_output1[5]" LOC = P12;
+NET "BCD_output1[4]" LOC = P13;
+NET "BCD_output1[3]" LOC = P15;
+NET "BCD_output1[2]" LOC = P16;
+NET "BCD_output1[1]" LOC = P18;
+NET "BCD_output1[0]" LOC = P19;
+NET "BCD_output3[6]" LOC = P68;
+NET "BCD_output3[5]" LOC = P69;
+NET "BCD_output3[4]" LOC = P70;
+NET "BCD_output3[3]" LOC = P71;
+NET "BCD_output3[2]" LOC = P72;
+NET "BCD_output3[1]" LOC = P75;
+NET "BCD_output3[0]" LOC = P76;
+NET "BCD_output4[6]" LOC = P55;
+NET "BCD_output4[5]" LOC = P58;
+NET "BCD_output4[4]" LOC = P59;
+NET "BCD_output4[3]" LOC = P60;
+NET "BCD_output4[2]" LOC = P62;
+NET "BCD_output4[1]" LOC = P63;
+NET "BCD_output4[0]" LOC = P64;
